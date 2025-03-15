@@ -12,7 +12,7 @@ Let's you use prompts like, "Find me 10 auctions for batman comics"
 
 ### Tools
 
-The server provides a single prompt:
+The server provides a single tool:
 
 - list_auction: Scan ebay for auctions. This tool is helpful for finding auctions on ebay.
   - Required "query" argument for the search query
